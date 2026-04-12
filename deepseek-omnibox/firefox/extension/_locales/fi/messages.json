@@ -1,6 +1,0 @@
-{
-  "appName": { "message": "DeepSeek Omniboxi" },
-  "appAuthor": { "message": "Adam Lui" },
-  "appDesc": { "message": "Kirjoita @deepseek osoitepalkkiin saadaksesi vastauksia DeepSeek: ltä" },
-  "prefix_ask": { "message": "Kysy" }
-}

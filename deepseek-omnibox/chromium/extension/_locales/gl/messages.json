@@ -1,6 +1,0 @@
-{
-  "appName": { "message": "DeepSeek Omnibox" },
-  "appAuthor": { "message": "Adán Lui" },
-  "appDesc": { "message": "Escriba @deepseekna barra de enderezos para obter respostas de DeepSeek" },
-  "prefix_ask": { "message": "& Preguntar" }
-}

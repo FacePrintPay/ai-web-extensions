@@ -1,6 +1,0 @@
-{
-  "appName": { "message": "ChatGPT Omnibox" },
-  "appAuthor": { "message": "Adam Lui" },
-  "appDesc": { "message": "Wpisz @chatgpt w pasku adresu, aby uzyskać odpowiedzi od ChatGPT" },
-  "prefix_ask": { "message": "Zapytaj" }
-}

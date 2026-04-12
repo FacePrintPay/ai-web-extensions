@@ -1,6 +1,0 @@
-{
-  "appName": { "message": "Omniboks ChatGPT" },
-  "appAuthor": { "message": "Adam Lui" },
-  "appDesc": { "message": "Če želite prejeti odgovore od ChatGPT, v naslovno vrstico vnesite @chatgpt" },
-  "prefix_ask": { "message": "Vprašajte" }
-}

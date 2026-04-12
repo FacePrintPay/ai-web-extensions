@@ -1,6 +1,0 @@
-{
-  "appName": { "message": "Brave Omnibox" },
-  "appAuthor": { "message": "Adam Lui" },
-  "appDesc": { "message": "Type @brave in linea barre ad resultatum Brave AI" },
-  "prefix_ask": { "message": "rogate" }
-}
