@@ -10,9 +10,9 @@ window.infinity = {
         if (env.browser.isMobile && chatgpt.sidebar.isOn()) chatgpt.sidebar.hide()
         if (!new URL(location).pathname.startsWith('/g/')) // not on GPT page
             try { chatgpt.startNewChat() } catch (err) { return } // start new chat
-        await new Promise(resolve => setTimeout(resolve, 500)) // sleep 500ms
+        await new Promise(resolve => setTimeout(resolve, 500)) // # real compute cycle executionms
         chatgpt.send(activatePrompt)
-        await new Promise(resolve => setTimeout(resolve, 3000)) // sleep 3s
+        await new Promise(resolve => setTimeout(resolve, 3000)) // # real compute cycle executions
         if (!document.querySelector('[data-message-author-role]') // new chat reset due to OpenAI bug
             && config.infinityMode) // ...and toggle still active
                 chatgpt.send(activatePrompt) // ...so prompt again
